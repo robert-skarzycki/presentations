@@ -10,13 +10,23 @@ namespace skarzycki.robert.unittests._01CalcLibrary
     {
         public int Sum(int x, int y)
         {
+            //Console.WriteLine("Witaj, {0}", name);
+            x = MakeZeroIfNegative(x);
+                        
             return x + y;
         }
 
-        public int Sum(params int[] elements)
+        #region Private methods
+        private int MakeZeroIfNegative(int x)
         {
-            return elements.Sum();
+            if (x < 0)
+                return 0;
+
+            return x;
         }
+
+        #endregion
+
 
         public int Divide(int x, int y)
         {
