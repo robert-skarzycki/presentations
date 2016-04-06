@@ -21,10 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skarzycki.robert.unittests.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skarzycki.robert.unittests.02DaysOff.Tests", "skarzycki.robert.unittests.02DaysOff.Tests\skarzycki.robert.unittests.02DaysOff.Tests.csproj", "{D99FA435-C93E-48CF-868A-775156787EC6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentations", "Presentations", "{C5B61A9A-CC97-481E-B0F3-90E3651F4A70}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentations", "Presentations", "{74459036-D879-479D-BF17-F76EDBDC9563}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\..\..\Work\Being a presenter\Testy jednostkowe - WAT01.pptx = ..\..\..\..\..\..\Work\Being a presenter\Testy jednostkowe - WAT01.pptx
-		..\..\..\..\..\..\Work\Being a presenter\Testy jednostkowe - WAT02.pptx = ..\..\..\..\..\..\Work\Being a presenter\Testy jednostkowe - WAT02.pptx
+		Pptx\Testy jednostkowe - WAT01.pptx = Pptx\Testy jednostkowe - WAT01.pptx
+		Pptx\Testy jednostkowe - WAT02.pptx = Pptx\Testy jednostkowe - WAT02.pptx
 	EndProjectSection
 EndProject
 Global
