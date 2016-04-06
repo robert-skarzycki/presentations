@@ -28,6 +28,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentations", "Presentati
 		Pptx\Testy jednostkowe - WAT03.pptx = Pptx\Testy jednostkowe - WAT03.pptx
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03", "03", "{B303DB95-2785-4581-8C0A-895B6F1C75F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skarzycki.robert.unittests.03HRSystem", "skarzycki.robert.unittests.03HRSystem\skarzycki.robert.unittests.03HRSystem.csproj", "{22E6AC22-1507-495A-903A-19D79EA887D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skarzycki.robert.unittests.03HRSystem.Tests", "skarzycki.robert.unittests.03HRSystem.Tests\skarzycki.robert.unittests.03HRSystem.Tests.csproj", "{EBEA8CC2-0B6F-4314-87EC-E47393D2CA86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +68,14 @@ Global
 		{D99FA435-C93E-48CF-868A-775156787EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D99FA435-C93E-48CF-868A-775156787EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D99FA435-C93E-48CF-868A-775156787EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E6AC22-1507-495A-903A-19D79EA887D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E6AC22-1507-495A-903A-19D79EA887D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E6AC22-1507-495A-903A-19D79EA887D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E6AC22-1507-495A-903A-19D79EA887D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBEA8CC2-0B6F-4314-87EC-E47393D2CA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBEA8CC2-0B6F-4314-87EC-E47393D2CA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBEA8CC2-0B6F-4314-87EC-E47393D2CA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBEA8CC2-0B6F-4314-87EC-E47393D2CA86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,5 +88,7 @@ Global
 		{87C16390-39C9-42F1-A157-6A434FE3B659} = {0C4529C3-0C91-4F4F-A626-6A0BFE405CD8}
 		{DF9FC54E-8FC6-47CC-9C4D-35DBC2D4426A} = {0C4529C3-0C91-4F4F-A626-6A0BFE405CD8}
 		{D99FA435-C93E-48CF-868A-775156787EC6} = {0C4529C3-0C91-4F4F-A626-6A0BFE405CD8}
+		{22E6AC22-1507-495A-903A-19D79EA887D4} = {B303DB95-2785-4581-8C0A-895B6F1C75F4}
+		{EBEA8CC2-0B6F-4314-87EC-E47393D2CA86} = {B303DB95-2785-4581-8C0A-895B6F1C75F4}
 	EndGlobalSection
 EndGlobal
