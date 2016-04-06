@@ -25,6 +25,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentations", "Presentati
 	ProjectSection(SolutionItems) = preProject
 		Pptx\Testy jednostkowe - WAT01.pptx = Pptx\Testy jednostkowe - WAT01.pptx
 		Pptx\Testy jednostkowe - WAT02.pptx = Pptx\Testy jednostkowe - WAT02.pptx
+		Pptx\Testy jednostkowe - WAT03.pptx = Pptx\Testy jednostkowe - WAT03.pptx
 	EndProjectSection
 EndProject
 Global
